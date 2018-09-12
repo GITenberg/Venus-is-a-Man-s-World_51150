@@ -1,0 +1,36 @@
+_repo: Venus-is-a-Man-s-World_51150
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Fawcette, Gene
+    gutenberg_agent_id: '46156'
+    url: http://www.gutenberg.org/2009/agents/46156
+creator:
+  author:
+    agent_name: Tenn, William
+    alias: Klass, Philip
+    birthdate: 1920
+    deathdate: 2010
+    gutenberg_agent_id: '35965'
+    url: http://www.gutenberg.org/2009/agents/35965
+    wikipedia: https://en.wikipedia.org/wiki/William_Tenn
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51150'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mate selection -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Sex role -- Fiction'
+- !lcsh 'Interplanetary voyages -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Stowaways -- Fiction'
+- GITenberg
+title: Venus is a Man's World
+url: http://www.gutenberg.org/ebooks/51150
