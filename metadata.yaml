@@ -1,10 +1,13 @@
 _repo: Venus-is-a-Man-s-World_51150
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Fawcette, Gene
     gutenberg_agent_id: '46156'
     url: http://www.gutenberg.org/2009/agents/46156
+covers:
+- cover_type: archival
+  image_path: 51150-h/images/cover.jpg
 creator:
   author:
     agent_name: Tenn, William
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35965
     wikipedia: https://en.wikipedia.org/wiki/William_Tenn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51150#Venus-is-a-Man-s-World
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-02-08'
 gutenberg_type: Text
